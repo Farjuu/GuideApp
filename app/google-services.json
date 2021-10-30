@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046147150711",
+    "project_id": "guideapp-7a020",
+    "storage_bucket": "guideapp-7a020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046147150711:android:6528459fd0ccfdb0aae772",
+        "android_client_info": {
+          "package_name": "dev.farjana.guideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046147150711-ssa42hgl5vuvlu94gr1sv10vgq80cukv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaTLN8K1gh53LHU6iw3q6194ameKkWXDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046147150711-ssa42hgl5vuvlu94gr1sv10vgq80cukv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

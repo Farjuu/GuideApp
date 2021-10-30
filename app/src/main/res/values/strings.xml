@@ -1,0 +1,60 @@
+<resources>
+
+    <!--   common strings              -->
+    <string name="app_name">GuideApp</string>
+    <string name="recyleritem">recyleritem</string>
+    <string name="name">name</string>
+    <string name="appicon">appICON</string>
+    <string name="desc">This is a guide App</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+
+
+    <!--    applovin sdk key             -->
+    <string name="applovin_sdk_key">k8fTZw_14GV--1st7zAkavFA2h1OSRKvtuwVT84mMEMpud_U0PgQTlBxaS_UAxmMVAucodRXKGTOKtZNCdCTrE</string>
+
+
+    <!--    one signal app id             -->
+    <string name="one_signal_appId">75142f81-5b69-4547-92f9-865bfa422277</string>
+
+
+    <!--      applovin ads id           -->
+    <string name="interstitial_id">1d40c1f9850794b6</string>
+    <string name="mrec_id">dd86def1c4a943f5</string>
+    <string name="banner_id">900efb4acb8a5edc</string>
+
+
+    <!--         mainactivity        -->
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="privacy">Privacy</string>
+    <string name="start_app">Start App</string>
+
+
+    <string name="shareimage">shareImage</string>
+    <string name="rateimage">rateImage</string>
+    <string name="privacyimage">privacyImage</string>
+    <string name="startimage">StartImage</string>
+
+
+    <string name="share_Url">https://play.google.com/store/apps/details?id=dev.farjana.guideapp</string>
+    <string name="rateUrl">https://play.google.com/store/apps/details?id=dev.farjana.guideapp</string>
+    <!--    option activity             -->
+
+    <string name="play_quiz">Play Quiz</string>
+    <string name="play_quiz_url">https://www.google.com</string>
+    <string name="free_guide_materials">Free Guide Materials</string>
+
+    <!--    privacy activity             -->
+
+    <string name="privacy_policy">PRIVACY POLICY</string>
+    <string name="privacy_policy_description">Privacy policy Description</string>
+
+    <string name="privacyTitle"> PRIVACY POLICY</string>
+
+    <string name="privacyDesc"> This gajak haskhk jahdkh hkahsfajljajajfh  a faf jfla akaafla
+    fakfa akllj ajfjfqojalk jakljfqpfuj jajasj jajjqjflfja jadkjaljdaljajfoe;irhfpeflaj ffh
+    fhkhfhkjfjf </string>
+
+
+</resources>

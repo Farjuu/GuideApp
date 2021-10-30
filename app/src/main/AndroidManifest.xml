@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dev.farjana.guideapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".Signal"
+        android:allowBackup="true"
+        android:fullBackupOnly="true"
+        android:icon="@mipmap/logo_robot"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_robot"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppDevChoice">
+        <activity
+            android:name=".SecondActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".PlayQuizUrlAct"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".GuideStringDataAct"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".GuideButtonsAct"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".OptionsAct"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".PrivacyAct"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" /> <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+        <!-- ad manager meta data -->
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="@string/applovin_sdk_key" /> <!-- safe browsing meta date -->
+        <meta-data
+            android:name="android.webkit.WebView.EnableSafeBrowsing"
+            android:value="false" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name=".WebActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".SplashAct"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

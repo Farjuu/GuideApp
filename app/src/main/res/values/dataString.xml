@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--     guide_button Activity            -->
+
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+
+    <!--     button names            -->
+    <string name="or">OR</string>
+    <string name="guide_one">Guide One</string>
+    <string name="guide_two">Guide Two</string>
+    <string name="guide_three">Guide Three</string>
+    <string name="guide_four">Guide Four</string>
+    <string name="guide_five">Guide Five</string>
+    <string name="guide_six">Guide Six</string>
+    <string name="guide_seven">Guide Seven</string>
+    <string name="guide_eight">Guide Eight</string>
+
+    <!--     titles            -->
+    <string name = "GuideOneTitle">How to become a successful seller? </string>
+    <string name = "GuideTwoTitle">How to become a successful seller? </string>
+    <string name = "GuideThreeTitle">How to become a successful seller? </string>
+    <string name = "GuideFourTitle">How to become a successful seller? </string>
+    <string name = "GuideFiveTitle">How to become a successful seller? </string>
+    <string name = "GuideSixTitle">How to become a successful seller? </string>
+    <string name = "GuideSevenTitle">How to become a successful seller? </string>
+    <string name = "GuideEightTitle">How to become a successful seller? </string>
+
+    <!--    descriptions           -->
+    <string name = "GuideOneDesc">
+        Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated. Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.</string>
+
+    <string name = "GuideTwoDesc">
+        Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated. Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.</string>
+
+    <string name = "GuideThreeDesc">
+        Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated. Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.</string>
+
+    <string name = "GuideFourDesc">
+        Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated. Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.</string>
+
+    <string name = "GuideFiveDesc">
+        Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated. Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.</string>
+
+    <string name = "GuideSixDesc">
+        Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated. Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.</string>
+
+    <string name = "GuideSevenDesc">
+        Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated. Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.</string>
+
+    <string name = "GuideEightDesc">
+        Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated. Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.
+    Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.Honesty, punctuality, dedicated.</string>
+
+
+
+
+
+</resources>
